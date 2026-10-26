@@ -16,8 +16,10 @@ I am currently in the process of researching the topic I'm interested in and als
 Some skills I learned from this blog are **researching** and **reading**.
 
 ## Researching
-For this blog, we had to research different topics
-Because of this blog, we had to research topics, and while researching these topics, we also had to find websites that correlate to our topic. Throughout this process, I was able to find information and different impacts technology had on Real Estate. This required me to read the information in these websites and decide whether it would be useful or not.
+For this blog, we had to search about our topic. I had to research Real Estate and find websites that correlate to my topic. I found that just searching 'Real Estate' didn't give me information on how technology impacts and continues to impact real estate. Instead, I had to search up both 'How does technology help real estate' and 'real estate and technology' which gave me the results I needed.
+
+## Reading
+Since we had to find websites that connect to our topics, this also required me to read. In order to decide whether a website was useful or not for me, I had to read the entire thing. What I mainly looked for was the impacts technology had on real estate and the evolution of real estate technology. By checking if the website had these, that's how I decided whether I'd use it as a source for this blog.
 
 
 [Next](entry02.md)
