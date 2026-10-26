@@ -1,5 +1,4 @@
 # Entry 1
-##### X/X/XX
 
 # Deciding on my topic (Real Estate) 
 ##### 10/26/26
@@ -15,12 +14,14 @@ I am currently in the process of researching the topic I'm interested in and als
 # Skills
 Some skills I learned from this blog are **researching** and **reading**.
 
-## Researching
+#### Researching
 For this blog, we had to search about our topic. I had to research Real Estate and find websites that correlate to my topic. I found that just searching 'Real Estate' didn't give me information on how technology impacts and continues to impact real estate. Instead, I had to search up both 'How does technology help real estate' and 'real estate and technology' which gave me the results I needed.
 
-## Reading
+#### Reading
 Since we had to find websites that connect to our topics, this also required me to read. In order to decide whether a website was useful or not for me, I had to read the entire thing. What I mainly looked for was the impacts technology had on real estate and the evolution of real estate technology. By checking if the website had these, that's how I decided whether I'd use it as a source for this blog.
 
+# My next steps
+My next steps are to identify a problem that needs to be solved in real estate and figure out what can be done!
 
 [Next](entry02.md)
 
