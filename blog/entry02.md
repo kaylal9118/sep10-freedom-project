@@ -17,6 +17,8 @@ I have been growing into the skill of **learning how to Google**. During my rese
 #### Time management
 I have been trying to grow into the skill of time management. Since school means multiple classes, I struggle with keeping up with homework in each and every one of my classes, especially this class, which makes me miss deadlines, partially also because I have a bad habit of procrastinating a lot. With the work we've been getting in class, it helps me get used to trying to finish the work assigned while also finishing my other work, but I usually just finish my other work and saving this for last which is why I'm doing this right now.
 
+# My next steps
+My next steps are listening to what Mr. Mueller says needs to be done as we work towards our freedom project. I need to actually get my work done on time and not procrastinate, ask help when I need, and try to keep my grade up in this class.
 
 
 
