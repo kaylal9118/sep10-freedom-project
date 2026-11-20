@@ -14,6 +14,9 @@ Skills I am learning since the previous blog is **learning how to Google** and *
 #### Learning how to google
 I have been growing into the skill of **learning how to Google**. During my research, I was trying to find real estates websites/apps, so I just searched **Real estate apps and websites**. But, I wanted to find ones that not many people knew about, but the top ones were popping up like Zillow and Redfin. Instead, I changed my search to **What are apps or websites that not a lot of people know about for real estate, showing more less-known websites/apps.
 
+#### Time management
+I have been trying to grow into the skill of time management. Since school means multiple classes, I struggle with keeping up with homework in each and every one of my classes, especially this class, which makes me miss deadlines, partially also because I have a bad habit of procrastinating a lot. With the work we've been getting in class, it helps me get used to trying to finish the work assigned while also finishing my other work, but I usually just finish my other work and saving this for last which is why I'm doing this right now.
+
 
 
 
