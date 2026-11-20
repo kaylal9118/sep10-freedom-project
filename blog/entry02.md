@@ -9,7 +9,10 @@ What we've been doing since finishing Blog 1 was researching technologies (softw
 We had to research software and hardware technologies in our topic that exist but not many people know about. I am currently still researching my topic. I had found a few helpful websites. My next stage is finishing my research on existing technologies and writing them in my content.md.
 
 # Skills
+Skills I am learning since the previous blog is **learning how to Google** and **time management**
 
+#### Learning how to google
+I have been growing into the skill of **learning how to Google**. During my research, I was trying to find real estates websites/apps, so I just searched **Real estate apps and websites**. But, I wanted to find ones that not many people knew about, but the top ones were popping up like Zillow and Redfin. Instead, I changed my search to **What are apps or websites that not a lot of people know about for real estate, showing more less-known websites/apps.
 
 
 
